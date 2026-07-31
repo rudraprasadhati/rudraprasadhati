@@ -109,6 +109,16 @@
 
 </div>
 
+<div align="center">
+
+<br>
+
+⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
+<br>
+
+</div>
+
 <p align="center">
   <img src="https://ghchart.rshah.org/1F6FEB/rudraprasadhati" alt="GitHub Contribution Chart" />
 </p>
