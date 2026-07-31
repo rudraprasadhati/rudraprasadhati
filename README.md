@@ -63,10 +63,21 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rudraprasadhati&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=rudraprasadhati&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E" />
+
+</div>
+
+<div>
+
+## 📈 GitHub Activity Graph
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraprasadhati&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" />
 
 <br>
-
 
 ⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
 
