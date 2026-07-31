@@ -38,29 +38,11 @@
 
 ### Languages
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,py" height="35"/>
 
 ### Tools
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" style="filter: grayscale(100%) sepia(100%) saturate(500%) hue-rotate(90deg);" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="35"/>
 
 </div>
 
