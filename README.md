@@ -120,5 +120,5 @@
 </div>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/1F6FEB/rudraprasadhati" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/58A6FF/rudraprasadhati" alt="GitHub Contribution Chart" />
 </p>
