@@ -3,11 +3,13 @@
 </p>
 
 <div align="center">
+
 # Rudra Prasad Hati
 ⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
 </div>
 
 <div>
+
 ## 🌿 About Me
 
 ```text
