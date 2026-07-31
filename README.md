@@ -6,7 +6,11 @@
 
 <div align="center">
 
+<br>
+
 ⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
+<br>
 
 </div>
 
@@ -23,7 +27,13 @@
 
 <div align="center">
 
+<br>
+
+
 ⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
+<br>
+
 
 </div>
 
@@ -43,7 +53,13 @@
 
 <div align="center">
 
+<br>
+
+
 ⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
+<br>
+
 
 </div>
 
@@ -57,7 +73,13 @@
 
 <img src="https://streak-stats.demolab.com?user=rudraprasadhati&hide_border=true&theme=transparent" />
 
+<br>
+
+
 ⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
+<br>
+
 
 </div>
 
