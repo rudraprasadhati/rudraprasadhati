@@ -1,6 +1,21 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
+<div align="center">
+
+# Rudra Prasad Hati
+⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+</div>
+
+## 🌿 About Me
+
+```text
+🎓  Education  :: B.Tech CSE @ ITER, SOA University
+📚  Year       :: Third Year
+```
+
+⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
 <!-- ========================================= -->
 <!--               HERO BANNER                -->
 <!-- ========================================= -->
