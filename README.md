@@ -72,7 +72,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ## 🌐 Connect With Me
 
