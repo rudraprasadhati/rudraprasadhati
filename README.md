@@ -38,11 +38,11 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,py" height="35"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,py" height="30"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="35"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="30"/>
 
 </div>
 
