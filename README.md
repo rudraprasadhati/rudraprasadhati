@@ -70,6 +70,12 @@
 
 </div>
 
+<div>
+
+## 🗓️ GitHub Activity Calendar
+
+</div>
+
 <div align="center">
 
   <img width="100%" src="https://stats.pphat.top/graph?username=rudraprasadhati" alt="GitHub Contribution Graph"/>
@@ -80,6 +86,12 @@
 ⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
 
 <br>
+
+</div>
+
+<div>
+
+## 🌐 GitHub Stats
 
 </div>
 
@@ -101,7 +113,7 @@
 
 <div>
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
 
