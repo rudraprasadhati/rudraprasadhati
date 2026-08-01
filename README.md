@@ -12,34 +12,13 @@
 
 <div>
 
-## 🌌 About Me
-
-```text
-🎓  Education  :: B.Tech CSE @ ITER, SOA University
-📚  Year       :: Third Year
-```
-
-</div>
+## 🌊 Skills
 
 <div align="center">
 
-<br>
-
-⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+<img src="https://stats.pphat.top/languages?username=rudraprasadhati" alt="Top Languages"/>
 
 </div>
-
-<div>
-
-## 🌊 Skills
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,py" height="30"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="30"/>
 
 </div>
 
@@ -91,6 +70,35 @@
 
 </div>
 
+<div align="center">
+
+  <img width="100%" src="https://stats.pphat.top/graph?username=rudraprasadhati" alt="GitHub Contribution Graph"/>
+</div>
+
+<div align="center">
+
+⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
+<br>
+
+</div>
+
+<div align="center">
+
+<a href="https://stats.pphat.top">
+  <img width="100%" src="https://stats.pphat.top/stats?username=rudraprasadhati"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<br>
+
+⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
+
+</div>
+
 <div>
 
 ## 🌐 Connect With Me
@@ -108,17 +116,3 @@
 </p>
 
 </div>
-
-<div align="center">
-
-<br>
-
-⋆ · ⋆ · ⋆ · ☾ · ⋆ · ⋆ · ⋆
-
-<br>
-
-</div>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1F6FEB/rudraprasadhati" alt="GitHub Contribution Chart" />
-</p>
